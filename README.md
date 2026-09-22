@@ -121,7 +121,7 @@ Kevin Batdorf
 [Krupa Nanda](https://krupananda.com/)
 - Twitter: [@krupajnanda](https://x.com/krupajnanda)
 - LinkedIn: [@krupajnanda](https://www.linkedin.com/in/krupajnanda/)
-- WordPress: [@aurooba](https://profiles.wordpress.org/krupajnanda)
+- WordPress: [@krupajnanda](https://profiles.wordpress.org/krupajnanda)
 - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/kjnanda)
 
 [Luca Tumedei](https://theaveragedev.com/)
